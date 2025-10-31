@@ -1,9 +1,11 @@
-{
-  "id": "w10",
-  "title": "船長の秘宝",
-  "tags": ["ホロライブ", "宝鐘マリン", "R18", "パイズリ"],
-  "status": "available",
-  "img": "https://raw.githubusercontent.com/basdrm39-netizen/portfolio/main/test/n3g9-13-15.jpg",
-  "desc": "ヤフオク出品の過去作品",
-  "buyUrl": ""
-}
+[
+  {
+    "id": "w10",
+    "title": "船長の秘宝",
+    "tags": ["ホロライブ", "宝鐘マリン", "R18", "パイズリ"],
+    "status": "available",
+    "img": "https://raw.githubusercontent.com/basdrm39-netizen/portfolio/main/test/n3g9-13-15.jpg",
+    "desc": "ヤフオク出品の過去作品",
+    "buyUrl": ""
+  }
+]
